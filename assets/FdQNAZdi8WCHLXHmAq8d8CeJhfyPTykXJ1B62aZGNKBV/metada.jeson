@@ -1,0 +1,14 @@
+{
+  "name": "PennyDoge",
+  "symbol": "PDOGE",
+  "description": "PennyDoge is a Japanese white dog-themed Solana meme token, powering games, anime, and community rewards.",
+  "image": "https://raw.githubusercontent.com/genz6786/penny-token-assets/main/FdQNAZdi8WCHLXHmAq8d8CeJhfyPTykXJ1B62aZGNKBV/PennyDoge_Icon_512x512.png",
+  "decimals": 6,
+  "extensions": {
+    "website": "https://your-website.com",
+    "twitter": "https://twitter.com/yourhandle",
+    "telegram": "https://t.me/yourgroup",
+    "discord": "https://discord.gg/yourserver"
+  }
+}
+
